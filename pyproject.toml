@@ -1,0 +1,9 @@
+[project]
+name = "tinyrag"
+version = "1.0.0"
+description = "A dependency-free retrieval demo that ranks passages from your notes with BM25."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.unittest]
+discovery = "tests"
